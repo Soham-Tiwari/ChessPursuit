@@ -29,3 +29,8 @@ https://github.com/mneubrand/jsfxr
 
 Using code provided by Jack Rugile for the integration of jsfxr:
 http://codepen.io/jackrugile/blog/arcade-audio-for-js13k-games
+
+Author:
+| [<img src="https://avatars.githubusercontent.com/u/86484193?v=4" width=115><br><sub>@Soham-Tiwari</sub>](https://github.com/Soham-Tiwari) |
+| :---: |
+
